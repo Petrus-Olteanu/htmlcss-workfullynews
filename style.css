@@ -1,13 +1,22 @@
 /*header img*/
 .container img{
-    position: absolute;
+
     background-color: #007fff;
     width: 100%;
     height: 200px;
-
+    z-index: 1;
 }
 .logo img{
-    position:absolute;
+    z-index: 2;
+}
 
+strong{
+    color:#007fff;
+    
+}
+.class_main img{
+    height: 45%;
+    width: 45%;
+    
 }
 
