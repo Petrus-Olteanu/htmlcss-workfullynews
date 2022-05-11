@@ -1,7 +1,13 @@
 /*header img*/
 .container img{
+    position: absolute;
     background-color: #007fff;
     width: 100%;
     height: 200px;
-   
+
 }
+.logo img{
+    position:absolute;
+
+}
+
