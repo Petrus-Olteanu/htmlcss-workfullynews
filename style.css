@@ -17,6 +17,9 @@ strong{
 .class_main img{
     height: 45%;
     width: 45%;
+    align:center;
     
 }
-
+span{
+    background-color: yellow;
+}
