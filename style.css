@@ -1,4 +1,7 @@
-img {
+/*header img*/
+.container img{
     background-color: #007fff;
-    background-size:cover;
+    width: 100%;
+    height: 200px;
+   
 }
